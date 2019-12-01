@@ -1,4 +1,4 @@
-php-survey-builder
+php-survey
 
 *php-survey-builder* is a PHP web application that lets you create surveys and collect survey responses. The results can be viewed on charts and exported to CSV. The survey data is stored within a sqlite3 database.
 
